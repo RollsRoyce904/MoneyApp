@@ -94,7 +94,7 @@ namespace MoneyApp
                 {
                     fourthInput = details[3];
                 }
-                catch (IndexOutOfRangeException x)
+                catch (IndexOutOfRangeException)
                 {
                     ;
                 }
